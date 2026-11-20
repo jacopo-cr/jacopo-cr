@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**jacopo-cr/jacopo-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>hi, i'm Jacopo</h1>
 
-Here are some ideas to get you started:
+<p>
+  computer science student interested in software engineering,<br>
+  artificial intelligence, data science and building things
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>featured projects</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github.com/user-attachments/assets/e3767007-baa6-4f0f-86e5-df99d5e7d8e8"
+        width="100%"
+        alt="wikimap"
+      />
+    </td>
+    <td width="50%" valign="middle">
+      <h3>
+        <a href="https://github.com/jacopo-cr/wikimap">
+          wikimap
+        </a>
+      </h3>
+      <p>
+        a real-time world map and live feed of human edits
+        to geotagged Wikipedia articles
+      </p>
+    </td>
+  </tr>
+</table>
