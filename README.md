@@ -10,7 +10,7 @@
 <img
   align="left"
   width="244"
-  src="https://github.com/user-attachments/assets/YOUR-NEW-GIF"
+  src="https://github.com/user-attachments/assets/acfd3c96-a1d5-49f1-81bc-a99d83036c60"
   alt="wikimap"
 />
 
