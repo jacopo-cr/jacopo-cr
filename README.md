@@ -7,7 +7,20 @@
 
 <h2>data analisys</h2>
 
-<p>working on a project...</p>
+<img 
+  align="left"
+  width="200" 
+  src="https://github.com/user-attachments/assets/3f736e0d-b9d5-485c-bd28-3378414a2e6a" 
+  alt="PTCG tournament analysis" 
+/>
+
+<h3>
+  <a href="https://github.com/jacopo-cr/ptcg-tournament-analysis">PTCG tournament analysis</a>
+</h3>
+
+<p>
+  what drives success in a Pokémon Trading Card Game tournament
+</p>
 
 <h2>weekend projects</h2>
 
