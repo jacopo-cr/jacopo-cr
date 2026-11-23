@@ -1,11 +1,15 @@
-<h1>hi, i'm Jacopo</h1>
+<h1>I'm Jacopo :></h1>
 
 <p>
-  computer science student interested in software engineering,<br>
-  artificial intelligence, data science and building things
+  I'm a Computer Science & Artificial Intelligence student<br> 
+  interested in software engineering, data science and building things
 </p>
 
-<h2>data analysis</h2>
+<h2>Machine Learning</h2>
+
+<p>more projects coming soon...</p>
+
+<h2>Data Science</h2>
 
 <img 
   align="left"
@@ -15,16 +19,16 @@
 />
 
 <h3>
-  <a href="https://github.com/jacopo-cr/ptcg-tournament-analysis">PTCG tournament analysis</a>
+  <a href="https://github.com/jacopo-cr/ptcg-tournament-analysis">PTCG Tournament Analysis</a>
 </h3>
 
 <p>
-  what drives success in a Pokémon Trading Card Game tournament
+  What drives success in a Pokémon Trading Card Game tournament?
 </p>
 
 <br clear="left"/>
 
-<h2>weekend projects</h2>
+<h2>Weekend Projects</h2>
 
 <img
   align="left"
@@ -34,12 +38,12 @@
 />
 
 <h3>
-  <a href="https://github.com/jacopo-cr/wikimap">wikimap</a>
+  <a href="https://github.com/jacopo-cr/wikimap">Wikipedia, Live</a>
 </h3>
 
 <p>
-  a real-time world map and live feed of human edits
-  to geotagged Wikipedia articles
+  A real-time world map and live feed of human edits
+  to geotagged Wikipedia articles.
 </p>
 
 <br clear="left"/>
