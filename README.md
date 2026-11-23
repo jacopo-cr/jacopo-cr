@@ -13,7 +13,7 @@
 
 <img 
   align="left"
-  width="200" 
+  width="180" 
   src="https://github.com/user-attachments/assets/8d86c83b-75e8-477d-848c-995fdcd9d597"
   alt="PTCG tournament analysis" 
 />
