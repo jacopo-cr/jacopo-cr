@@ -5,9 +5,9 @@
   artificial intelligence, data science and building things
 </p>
 
-<h1>data analisys</h1>
+<h2>data analisys</h2>
 
-<p>working on it...</p>
+<p>working on a project...</p>
 
 <h2>weekend projects</h2>
 
