@@ -7,7 +7,7 @@
 
 <h2>Machine Learning</h2>
 
-<p>Working on a new project...</p>
+<p>> Working on a new project...</p>
 
 <h2>Data Science</h2>
 
@@ -27,7 +27,7 @@
 </p>
 
 <br clear="left"/>
-<p> <br>Working on a new project...</p>
+<p> <br>> Working on a new project...</p>
 
 <h2>Weekend Projects</h2>
 
