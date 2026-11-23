@@ -27,7 +27,6 @@
 </p>
 
 <br clear="left"/>
-<p> <br>> Working on a new project...</p>
 
 <h2>Weekend Projects</h2>
 
