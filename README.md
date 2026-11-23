@@ -5,7 +5,11 @@
   artificial intelligence, data science and building things
 </p>
 
-<h2>featured projects</h2>
+<h1>data analisys</h1>
+
+<p>working on it...</p>
+
+<h2>weekend projects</h2>
 
 <img
   align="left"
