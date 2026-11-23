@@ -10,7 +10,7 @@
 <img 
   align="left"
   width="200" 
-  src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/3f736e0d-b9d5-485c-bd28-3378414a2e6a&w=400&h=240&fit=cover" 
+  src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/3f736e0d-b9d5-485c-bd28-3378414a2e6a&w=400&h=250&fit=cover" 
   alt="PTCG tournament analysis" 
 />
 
@@ -29,7 +29,7 @@
 <img
   align="left"
   width="200"
-  src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/acfd3c96-a1d5-49f1-81bc-a99d83036c60&w=400&h=240&fit=cover"
+  src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/acfd3c96-a1d5-49f1-81bc-a99d83036c60&w=400&h=250&fit=cover"
   alt="wikimap"
 />
 
