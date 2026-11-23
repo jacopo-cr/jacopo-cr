@@ -1,13 +1,13 @@
-<h1>I'm Jacopo :></h1>
+<h1>I'm Jacopo :)</h1>
 
 <p>
   I'm a Computer Science & Artificial Intelligence student<br> 
-  interested in software engineering, data science and building things
+  interested in software engineering, data science and building things.
 </p>
 
 <h2>Machine Learning</h2>
 
-<p>more projects coming soon...</p>
+<p>Working on a new project...</p>
 
 <h2>Data Science</h2>
 
