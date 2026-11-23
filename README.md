@@ -10,7 +10,7 @@
 <img 
   align="left"
   width="200" 
-  src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/3f736e0d-b9d5-485c-bd28-3378414a2e6a&w=200&h=150&fit=cover" 
+  src="https://github.com/user-attachments/assets/8d86c83b-75e8-477d-848c-995fdcd9d597"
   alt="PTCG tournament analysis" 
 />
 
