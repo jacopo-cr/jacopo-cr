@@ -29,7 +29,7 @@
 <img
   align="left"
   width="200"
-  src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/acfd3c96-a1d5-49f1-81bc-a99d83036c60&w=400&h=250&fit=cover"
+  src="https://github.com/user-attachments/assets/acfd3c96-a1d5-49f1-81bc-a99d83036c60"
   alt="wikimap"
 />
 
